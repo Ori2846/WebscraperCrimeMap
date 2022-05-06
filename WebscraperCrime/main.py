@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import time
+
 index = 0
 page=1
 durl = "https://www.foxla.com/"
